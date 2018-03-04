@@ -1,4 +1,4 @@
-shadowsocks on china.
+
 
 yum install wget -y
 yum clean all
