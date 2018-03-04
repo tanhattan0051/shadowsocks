@@ -1,4 +1,4 @@
-			SHADOWSOCKS 
+						SHADOWSOCKS 
 			
 yum install wget -y
 
